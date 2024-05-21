@@ -1,0 +1,12 @@
+// Sabsy pehly tailwind ki website sy project setup kiya react ka vite ky sath aur phr tailwind installl ki..
+// phr src ky folder ky andr aik folder bnaaaya COMPONENTS ka aur us mey NavBar.jsx ki file banayi..
+// phr tailwind ka aik framework DaisyUI sy baana bnaaya navbar uthaaya aur us mey changes ki..DaisyUI ka install kiya aur tailwind config.js mey plugins copy kiye...
+// NAVBAR -> {} is mey javascript ka code likhty aur return sy upper store krdiya navItems ko..
+HOOK-> State ko manage krty hayn, use state 
+// Slider bnaaya hay react ki koi slick library sy, wahn sy settings function copy kiya aur 3 py set kiya, phr usky bd slider copy kiya aur us mey map krdiya cards ky components ko..
+
+PROPS -> React mey parents sy child mey data pass krny ky lye props ka use krty hyn
+In reacts props are a way to pass data from a parent component to a child component. 
+
+Props allowss, components to be dynamic and flexible, once they receive different data and render accordingly.
+// Humny React Router DOM Use kiya package install kiya hay multiple routees ko define krny ky lye..
